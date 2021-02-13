@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  day: 2021-02-13
+  subjective: MyString
+  objective: MyString
+  assessment: MyString
+  plan: MyString
+  patient: one
+  user: one
+
+two:
+  day: 2021-02-13
+  subjective: MyString
+  objective: MyString
+  assessment: MyString
+  plan: MyString
+  patient: two
+  user: two
